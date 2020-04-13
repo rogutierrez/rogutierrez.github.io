@@ -12,7 +12,7 @@ redirect_from:
 Profesor de Matemática y Computación, Magíster en Matemática mención Estadística
 CV completo: [Aquí](/files/CV-RodrigoG.pdf)
 
-Education
+#Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
