@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Profesor de Matemática y Computación, Magíster en Matemática mención Estadística
+Profesor de Matemática y Computación, Magíster en Matemática mención Estadística.
 
 CV completo: [Aquí](/files/CV-RodrigoG.pdf)
 
