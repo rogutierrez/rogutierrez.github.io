@@ -11,7 +11,7 @@ redirect_from:
 
 Profesor de Matemática y Computación, Magíster en Matemática mención Estadística
 CV completo: [Aquí](/files/CV-RodrigoG.pdf)
-<!--
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -61,4 +61,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
--->
+
