@@ -11,5 +11,5 @@ redirect_from:
 
 Profesor de Matemática y Computación, Magíster en Matemática mención Estadística.
 
-CV completo: [Aquí](/files/CV-RodrigoG.pdf)
+CV completo: [Aquí](/files/cv.pdf)
 
